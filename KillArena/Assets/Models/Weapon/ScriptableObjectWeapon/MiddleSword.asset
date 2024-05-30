@@ -15,5 +15,9 @@ MonoBehaviour:
   Name: MiddleSword
   Description: This is middle sword
   WeaponIcon: {fileID: 0}
+  MinRangeWeapon: 1
+  HighRangeWeapon: 0
   Damage: 2
   Endurance: 5
+  Range: 0
+  FireRate: 0

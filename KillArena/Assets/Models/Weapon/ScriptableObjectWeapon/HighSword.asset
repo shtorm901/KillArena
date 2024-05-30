@@ -15,5 +15,9 @@ MonoBehaviour:
   Name: HighSword
   Description: This is high sword
   WeaponIcon: {fileID: 0}
+  MinRangeWeapon: 1
+  HighRangeWeapon: 0
   Damage: 5
   Endurance: 7
+  Range: 0
+  FireRate: 0

@@ -15,5 +15,9 @@ MonoBehaviour:
   Name: LightSword
   Description: This is light sword
   WeaponIcon: {fileID: 0}
+  MinRangeWeapon: 1
+  HighRangeWeapon: 0
   Damage: 1
   Endurance: 3
+  Range: 0
+  FireRate: 0
