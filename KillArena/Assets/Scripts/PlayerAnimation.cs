@@ -17,11 +17,11 @@ public class PlayerAnimation : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Anim.SetBool("Press", true);
+            Anim.SetBool("IsAttackSword", true);
         }
         else
         {
-            Anim.SetBool("Press", false);
+            Anim.SetBool("IsAttackSword", false);
         }
     }
 }
